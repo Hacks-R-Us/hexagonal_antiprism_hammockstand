@@ -17,7 +17,7 @@ We wanted a bigger thing for having lots of hammocks in, and we wanted a weird s
 * extendable if reasonable
 
 
-## Thinkings and doings
+## Thinkings before doings
 * scaffolding poles are many
 * scaffolding poles are cheap
 * scaffolding comes in 3 and 6 meter lengths
@@ -40,3 +40,7 @@ We wanted a bigger thing for having lots of hammocks in, and we wanted a weird s
  * need to buy protective coatings for the aluminium
  * oh yeah, and the human while casting.
  * ...TBC.
+ 
+## Doings
+* "Hey @swlcx, plz print 1 of this for testing"
+* (later we will need to print 12 in total, but this is good for now and testing)
